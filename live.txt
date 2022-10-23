@@ -1,10 +1,6 @@
 ﻿💝港台轮播,#genre#
 
-中视,rtmp://59.124.75.138/sat/tv091$高清720P#rtmp://59.124.75.150/sat/tv091$高清720P#rtmp://59.124.75.138:1935/sat/tv091
-华视,rtmp://59.124.75.138:1935/sat/tv111$高清720P#rtmp://59.124.75.150/sat/tv111$高清720P#rtmp://59.124.75.138:1935/sat/tv111
-台视,rtmp://59.124.75.150/sat/tv071$高清720P#rtmp://59.124.75.138/sat/tv071$高清720P#rtmp://59.124.75.138:1935/sat/tv071
-民视,rtmp://59.124.75.150/sat/tv051$高清720P#rtmp://59.124.75.138/sat/tv051$高清720P#rtmp://59.124.75.138:1935/sat/tv051
-台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8$高清1080P#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8$高清1080P
+
 莆田1套综合频道,http://39.135.55.7:6610/PLTV/88888888/224/3221227161/index.m3u8?servicetype=1&IASHttpSessionId=OTT#http://xiaogui.yeyuaihao.club:81/fujianputian.php?id=4#rtsp://183.252.166.199/PLTV/88888888/224/3221226724/45553236.smil#http://api.mydianshijia.com/gslb/live?stream_id=py_pt1&type=.m3u8
 莆田2套公共频道[1280*720][1280*720],http://xiaogui.yeyuaihao.club:81/fujianputian.php?id=5#http://api.mydianshijia.com/gslb/live?stream_id=py_pt2&type=.m3u8
 发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226235/1.m3u8?zyangd#http://111.20.33.93/PLTV/88888893/224/3221226235/index.m3u8?zyangd
